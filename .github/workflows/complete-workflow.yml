@@ -45,4 +45,8 @@ jobs:
   #         docker_name: 'owasp/zap2docker-stable'
   #         target: 'http://testphp.vulnweb.com/'
   #         rules_file_name: '.zap/rules.tsv'
+<<<<<<< HEAD
   #         cmd_options: '-a'
+=======
+  #         cmd_options: '-a'
+>>>>>>> 36a7a4da7c4d21b611d6a453b17e48e85c311b25
